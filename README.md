@@ -1,5 +1,5 @@
-PHP - Backend
-Bootsrap,CSS,Html - Frontend
-postgresql - SGBD
-arquitetura MVC
-IDE - Visual Studio
+PHP - Backend <br>
+Bootsrap,CSS,Html - Frontend <br>
+postgresql - SGBD <br>
+arquitetura MVC <br>
+IDE - Visual Studio <br>
