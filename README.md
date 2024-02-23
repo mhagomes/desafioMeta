@@ -1,1 +1,5 @@
-Teste de arquitetura MVC, PHP , Postgres,Bootstrap.
+PHP - Backend
+Bootsrap,CSS,Html - Frontend
+postgresql - SGBD
+arquitetura MVC
+IDE - Visual Studio
